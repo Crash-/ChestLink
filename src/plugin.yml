@@ -1,0 +1,22 @@
+name: ChestLink
+version: 0.1
+main: com.Crash.ChestLink.ChestLink
+commands:
+  link:
+    description:
+    usage:
+    aliases: 'l'
+  unlink:
+    description:
+    usage:
+    aliases: 'ul'
+  getlink:
+    description:
+    usage:
+    aliases: 'gl'
+  savelinks:
+    description:
+    usage:
+  loadlinks:
+    description:
+    usage:
